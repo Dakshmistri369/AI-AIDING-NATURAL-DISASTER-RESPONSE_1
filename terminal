@@ -1,0 +1,5 @@
+run this in terminal  
+
+mkdir disaster_ai_project
+cd disaster_ai_project
+pip install pandas scikit-learn fastapi uvicorn pydantic joblib
